@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 
 @Entity
 public class CurrencyExchange {
-	
+	 
 	@Id
 	private Long id;
 	
